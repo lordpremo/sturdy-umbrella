@@ -1,10 +1,7 @@
 {
   "name": "broken-lord-king-carrier-lookup",
   "version": "1.0.0",
-  "description": "BROKEN LORD KING – Offline, no-key, global-ready carrier lookup API for Vercel",
+  "description": "BROKEN LORD KING – Global Offline Carrier Lookup API",
   "main": "api/lookup.js",
-  "scripts": {
-    "start": "node api/lookup.js"
-  },
   "license": "MIT"
 }
